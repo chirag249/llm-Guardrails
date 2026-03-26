@@ -1,0 +1,11 @@
+1. SmartGuard Results Summary
+2. Model: Offline keyword-derived scoring (deterministic for demo)
+3. Threshold: 0.3
+
+4. Total tests: 45
+5. Accuracy: 0.8222
+6. Precision: 1.0000
+7. Recall: 0.7333
+8. F1: 0.8462
+9. Block rate on attacks: 0.7333
+10. False positive rate: 0.0000

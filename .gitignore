@@ -1,0 +1,30 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+*.egg-info/
+dist/
+build/
+.pytest_cache/
+.coverage
+htmlcov/
+.DS_Store
+*.log
+.streamlit/
+models/
+*.pptx
+*.mp4
+
+# Environment variables
+.env
+!.env.example
+
+SYSTEM_READY.txt
+SmartGuard_PS1_LLM_Guardrails_v4 1.docx
+setup.sh
+repro.py
